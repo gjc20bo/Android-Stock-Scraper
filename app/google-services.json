@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "415232968033",
+    "firebase_url": "https://assignment4-4cf1b-default-rtdb.firebaseio.com",
+    "project_id": "assignment4-4cf1b",
+    "storage_bucket": "assignment4-4cf1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415232968033:android:a81b5f0f2648c3ee38f120",
+        "android_client_info": {
+          "package_name": "com.example.assignment4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415232968033-p0frbta195kr2bp9jpgmn44l5ioqe4kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi-_4wVxDJ6caQY79eA6tWAp4_Gvsx_C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415232968033-p0frbta195kr2bp9jpgmn44l5ioqe4kj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415232968033:android:1795601849059bbc38f120",
+        "android_client_info": {
+          "package_name": "com.example.tickertracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415232968033-p0frbta195kr2bp9jpgmn44l5ioqe4kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi-_4wVxDJ6caQY79eA6tWAp4_Gvsx_C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415232968033-p0frbta195kr2bp9jpgmn44l5ioqe4kj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
